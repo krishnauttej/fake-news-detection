@@ -1,1 +1,1 @@
-# fake-news-detection
+Used Natural Language Processing(NLP) for performing operations like removing stopwords and stemming. used TFIDF for extracting features.classified wheteher news is real or fake.Developed app using Flask a python framework.
